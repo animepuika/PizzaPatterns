@@ -1,3 +1,9 @@
+Repository link https://github.com/animepuika/PizzaPatterns
+
+I worked alone because of health problems.
+I couldn't finish and help my co-partner which led him to finish his part of the project alone.
+So I started mine alone.
+
 Application to order pizzas.
 
 Design Patterns that are being used:
